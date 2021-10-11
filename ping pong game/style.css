@@ -1,0 +1,52 @@
+.heading
+{
+width: 100%;
+text-align: left;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid rgb(235, 222, 222);
+}
+
+.big_image
+{
+    width: 100%;
+}
+
+#start ,#status
+{
+font-size: 22px;
+}
+
+h4
+{
+    background-color: orangered;
+    line-height: 2;
+    margin: 0px;
+    
+}
+
+.modal-dialog
+{
+	width: 90%;
+}
+
+.instruction_image
+{
+    display: inline-block;
+    width: 45%;
+}
+
+
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
